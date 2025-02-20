@@ -1,4 +1,4 @@
-# Nexus ZK Prover node Guide
+# Nexus Network Node Guide
 
 Nexus provides an easy and efficient way to contribute computing power to its network through a **CLI contribution** and **browser-based interface**. This allows users to participate without needing to install additional software or configure complex setups.
 
